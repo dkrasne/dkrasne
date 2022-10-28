@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi!
+
+Although I have a PhD in Classics, I'm now studying for an MS degree in data analytics & visualization. Currently I'm trying to learn JavaScript purely for fun(?), but I know I'll be working with at least R and Python over the next couple of semesters, maybe some other languages too.
+
+
 
 <!--
 **dkrasne/dkrasne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
