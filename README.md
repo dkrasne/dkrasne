@@ -2,6 +2,7 @@
 
 Although I have a PhD in Classics, I'm now studying for an MS degree in data analytics & visualization. I primarily code in Python, but I also know R and have taught myself a little bit of JavaScript purely for fun(?).
 
+Feel free to take a look at [my portfolio](http://pratt.darcykrasne.com/Portfolio/)!
 
 
 <!--
