@@ -1,8 +1,8 @@
-### Hi!
+### About Me
 
-Although I have a PhD in Classics, I'm now studying for an MS degree in data analytics & visualization, with specializations in Digital Humanities and spatial analysis and visualization. I primarily code in Python, but I also know R and have taught myself some JavaScript and D3.js.
+I received a PhD in Classics in 2011 from UC Berkeley and an MS degree in Data Analytics & Visualization (with specializations in Digital Humanities and spatial analysis & design) in 2025 from the Pratt Institute's School of Information. I primarily code in Python, but I also know R and have taught myself some JavaScript and D3.js.
 
-Feel free to take a look at [my portfolio](http://pratt.darcykrasne.com/Portfolio/)!
+Feel free to take a look at [my portfolio](http://pratt.darcykrasne.com/Portfolio/)! It's a combination of standard data viz and Digital Humanities projects.
 
 
 <!--
